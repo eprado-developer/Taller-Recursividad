@@ -10,22 +10,20 @@ Este repositorio contiene la solución al **Taller de Recursividad** de la asign
 
 ### Ejercicios resueltos
 
-| # | Descripción |
-|---|-------------|
-| 01 | Factorial de un número entero |
-| 02 | Invertir un número entero |
-| 03 | Sumatoria de fracciones: 1 + 1/2 + 1/3 + … + 1/n |
-| 04 | Suma de los dígitos de un número |
-| 05 | Sumatoria de 1 + 2 + 3 + … + n |
-| 06 | Potencia: base^exponente |
-| 07 | Máximo Común Divisor (Algoritmo de Euclides) |
-| 08 | Copiar una cadena en otra |
-| 09 | Cociente de la división entera (restas sucesivas) |
-| 10 | Multiplicación por sumas sucesivas |
-| 11 | Suma de los elementos de un vector |
-| 12 | Suma de los elementos de una matriz m×n |
-| 13 | Serie de Fibonacci hasta un límite dado |
-| 14 | Función de Ackermann |
+1  Factorial de un número entero
+2  Invertir un número entero
+3  Sumatoria de fracciones: 1 + 1/2 + 1/3 + … + 1/n
+4  Suma de los dígitos de un número
+5  Sumatoria de 1 + 2 + 3 + … + n
+6  Potencia: base^exponente
+7  Máximo Común Divisor (Algoritmo de Euclides)
+8  Copiar una cadena en otra
+9  Cociente de la división entera (restas sucesivas)
+10 Multiplicación por sumas sucesivas
+11 Suma de los elementos de un vector
+12 Suma de los elementos de una matriz m×n
+13 Serie de Fibonacci hasta un límite dado
+14 Función de Ackermann 
 
 ---
 
